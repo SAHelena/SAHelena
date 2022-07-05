@@ -17,7 +17,6 @@
   <img align="center" alt="Helena-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Helena-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Helena-Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
-  <img align="right" alt="Helena-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/edf426b8bf9c14589edfcc519d73b7e4.gif">
 </div>
 
 ##
